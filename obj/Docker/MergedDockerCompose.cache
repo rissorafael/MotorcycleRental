@@ -1,0 +1,122 @@
+name: dockercompose4389866004415338636
+services:
+  elasticsearch:
+    container_name: motorcyclerental.elasticsearch
+    environment:
+      discovery.type: single-node
+      xpack.security.enabled: "false"
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.7.1
+    networks:
+      elastic: null
+    ports:
+      - mode: ingress
+        target: 9200
+        published: "9200"
+        protocol: tcp
+    volumes:
+      - type: volume
+        source: elasticsearch-data
+        target: /usr/share/elasticsearch/data
+        volume: {}
+  kibana:
+    container_name: motorcyclerental.kibana
+    depends_on:
+      elasticsearch:
+        condition: service_started
+        required: true
+    environment:
+      ELASTICSEARCH_URL: http://localhost:9200
+    image: docker.elastic.co/kibana/kibana:8.7.1
+    networks:
+      elastic: null
+    ports:
+      - mode: ingress
+        target: 5601
+        published: "5601"
+        protocol: tcp
+  motorcyclerental.api:
+    build:
+      context: C:\Users\User\source\repos\MotorcycleRental
+      dockerfile: MotorcycleRental/Dockerfile
+    container_name: motorcyclerental.api
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+      ASPNETCORE_HTTPS_PORTS: "8081"
+    image: motorcyclerentalapi
+    networks:
+      elastic: null
+    ports:
+      - mode: ingress
+        target: 8080
+        protocol: tcp
+      - mode: ingress
+        target: 8081
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: C:\Users\User\AppData\Roaming/Microsoft/UserSecrets
+        target: /home/app/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\User\AppData\Roaming/ASP.NET/Https
+        target: /home/app/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+  motorcyclerental.database:
+    container_name: motorcyclerental.database
+    environment:
+      POSTGRES_DB: products
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_USER: postgres
+    image: postgres:latest
+    networks:
+      elastic: null
+    ports:
+      - mode: ingress
+        target: 5432
+        published: "5432"
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: C:\Users\User\source\repos\MotorcycleRental\.containers\produts-db
+        target: /var/lib/postgresql/data
+        bind:
+          create_host_path: true
+  motorcyclerental.pgadmin-compose:
+    container_name: motorcyclerental.pgadmin-compose
+    environment:
+      PGADMIN_DEFAULT_EMAIL: renatogroff@yahoo.com.br
+      PGADMIN_DEFAULT_PASSWORD: PgAdmin2019!
+    image: dpage/pgadmin4
+    networks:
+      elastic: null
+    ports:
+      - mode: ingress
+        target: 80
+        published: "15432"
+        protocol: tcp
+  motorcyclerental.rabbitmq-compose:
+    container_name: motorcyclerental.rabbitmq-compose
+    image: rabbitmq:3.13-management
+    networks:
+      elastic: null
+    ports:
+      - mode: ingress
+        target: 5672
+        published: "5672"
+        protocol: tcp
+      - mode: ingress
+        target: 15672
+        published: "15672"
+        protocol: tcp
+networks:
+  elastic:
+    name: dockercompose4389866004415338636_elastic
+    driver: bridge
+volumes:
+  elasticsearch-data:
+    name: dockercompose4389866004415338636_elasticsearch-data

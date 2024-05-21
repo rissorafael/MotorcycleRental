@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\MotorcycleRental\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB21788-E0C9-47F0-9E4E-DD4B18F659F1}|MotorcycleRental\\MotorcycleRental.Api.csproj|c:\\users\\user\\source\\repos\\motorcyclerental\\motorcyclerental\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9DB21788-E0C9-47F0-9E4E-DD4B18F659F1}|MotorcycleRental\\MotorcycleRental.Api.csproj|solutionrelative:motorcyclerental\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9781391-B06D-459E-9B60-22431B1870F4}|MotorcycleRental.Infra.IoC\\MotorcycleRental.Infra.IoC.csproj|c:\\users\\user\\source\\repos\\motorcyclerental\\motorcyclerental.infra.ioc\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9781391-B06D-459E-9B60-22431B1870F4}|MotorcycleRental.Infra.IoC\\MotorcycleRental.Infra.IoC.csproj|solutionrelative:motorcyclerental.infra.ioc\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB21788-E0C9-47F0-9E4E-DD4B18F659F1}|MotorcycleRental\\MotorcycleRental.Api.csproj|c:\\users\\user\\source\\repos\\motorcyclerental\\motorcyclerental\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB21788-E0C9-47F0-9E4E-DD4B18F659F1}|MotorcycleRental\\MotorcycleRental.Api.csproj|solutionrelative:motorcyclerental\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2A3FC5-3AE6-4C78-A9F7-65E0BF65962A}|MotorcycleRental.Service\\MotorcycleRental.Service.csproj|c:\\users\\user\\source\\repos\\motorcyclerental\\motorcyclerental.service\\service\\contratoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2A3FC5-3AE6-4C78-A9F7-65E0BF65962A}|MotorcycleRental.Service\\MotorcycleRental.Service.csproj|solutionrelative:motorcyclerental.service\\service\\contratoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB7EF55-B22E-43DF-8489-E6269D87542A}|Test\\MotorcycleRental.Test\\MotorcycleRental.Test.csproj|c:\\users\\user\\source\\repos\\motorcyclerental\\test\\motorcyclerental.test\\entregadorservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB7EF55-B22E-43DF-8489-E6269D87542A}|Test\\MotorcycleRental.Test\\MotorcycleRental.Test.csproj|solutionrelative:test\\motorcyclerental.test\\entregadorservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MotorcycleRental\\MotorcycleRental\\appsettings.json",
+              "RelativeDocumentMoniker": "MotorcycleRental\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MotorcycleRental\\MotorcycleRental\\appsettings.json",
+              "RelativeToolTip": "MotorcycleRental\\appsettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-21T17:22:23.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MotorcycleRental\\MotorcycleRental.Infra.IoC\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "MotorcycleRental.Infra.IoC\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MotorcycleRental\\MotorcycleRental.Infra.IoC\\DependencyInjection.cs",
+              "RelativeToolTip": "MotorcycleRental.Infra.IoC\\DependencyInjection.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAD4vy0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:21:33.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EntregadorServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MotorcycleRental\\Test\\MotorcycleRental.Test\\EntregadorServiceTest.cs",
+              "RelativeDocumentMoniker": "Test\\MotorcycleRental.Test\\EntregadorServiceTest.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MotorcycleRental\\Test\\MotorcycleRental.Test\\EntregadorServiceTest.cs",
+              "RelativeToolTip": "Test\\MotorcycleRental.Test\\EntregadorServiceTest.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:36:49.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContratoService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MotorcycleRental\\MotorcycleRental.Service\\Service\\ContratoService.cs",
+              "RelativeDocumentMoniker": "MotorcycleRental.Service\\Service\\ContratoService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MotorcycleRental\\MotorcycleRental.Service\\Service\\ContratoService.cs",
+              "RelativeToolTip": "MotorcycleRental.Service\\Service\\ContratoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:27:23.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MotorcycleRental\\MotorcycleRental\\Program.cs",
+              "RelativeDocumentMoniker": "MotorcycleRental\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MotorcycleRental\\MotorcycleRental\\Program.cs",
+              "RelativeToolTip": "MotorcycleRental\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T05:11:05.033Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

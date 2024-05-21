@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ci4Fu7UjEUDkOXhrUvBswQMr9Omwhwkqaq/ZVMa4/Qs=",
+  "Source": "MotorcycleRental.Api",
+  "BasePath": "_content/MotorcycleRental.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

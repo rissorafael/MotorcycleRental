@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\MotorcycleRental\MotorcycleRental.Service\bin\Debug\net8.0\MotorcycleRental.Service.deps.json
+C:\Users\User\source\repos\MotorcycleRental\MotorcycleRental.Service\bin\Debug\net8.0\MotorcycleRental.Service.dll
+C:\Users\User\source\repos\MotorcycleRental\MotorcycleRental.Service\bin\Debug\net8.0\MotorcycleRental.Service.pdb
+C:\Users\User\source\repos\MotorcycleRental\MotorcycleRental.Service\bin\Debug\net8.0\MotorcycleRental.Domain.dll
+C:\Users\User\source\repos\MotorcycleRental\MotorcycleRental.Service\bin\Debug\net8.0\MotorcycleRental.Infra.CrossCutting.dll
+C:\Users\User\source\repos\MotorcycleRental\MotorcycleRental.Service\bin\Debug\net8.0\MotorcycleRental.Domain.pdb
+C:\Users\User\source\repos\MotorcycleRental\MotorcycleRental.Service\bin\Debug\net8.0\MotorcycleRental.Infra.CrossCutting.pdb
+C:\Users\User\source\repos\MotorcycleRental\MotorcycleRental.Service\obj\Debug\net8.0\MotorcycleRental.Service.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MotorcycleRental\MotorcycleRental.Service\obj\Debug\net8.0\MotorcycleRental.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MotorcycleRental\MotorcycleRental.Service\obj\Debug\net8.0\MotorcycleRental.Service.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MotorcycleRental\MotorcycleRental.Service\obj\Debug\net8.0\MotorcycleRental.Service.AssemblyInfo.cs
+C:\Users\User\source\repos\MotorcycleRental\MotorcycleRental.Service\obj\Debug\net8.0\MotorcycleRental.Service.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MotorcycleRental\MotorcycleRental.Service\obj\Debug\net8.0\Motorcyc.C8DBA2AE.Up2Date
+C:\Users\User\source\repos\MotorcycleRental\MotorcycleRental.Service\obj\Debug\net8.0\MotorcycleRental.Service.dll
+C:\Users\User\source\repos\MotorcycleRental\MotorcycleRental.Service\obj\Debug\net8.0\refint\MotorcycleRental.Service.dll
+C:\Users\User\source\repos\MotorcycleRental\MotorcycleRental.Service\obj\Debug\net8.0\MotorcycleRental.Service.pdb
+C:\Users\User\source\repos\MotorcycleRental\MotorcycleRental.Service\obj\Debug\net8.0\ref\MotorcycleRental.Service.dll

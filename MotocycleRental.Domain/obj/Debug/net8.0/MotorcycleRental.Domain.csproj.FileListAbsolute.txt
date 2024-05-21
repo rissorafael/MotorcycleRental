@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\MotorcycleRental\MotocycleRental.Domain\bin\Debug\net8.0\MotorcycleRental.Domain.deps.json
+C:\Users\User\source\repos\MotorcycleRental\MotocycleRental.Domain\bin\Debug\net8.0\MotorcycleRental.Domain.dll
+C:\Users\User\source\repos\MotorcycleRental\MotocycleRental.Domain\bin\Debug\net8.0\MotorcycleRental.Domain.pdb
+C:\Users\User\source\repos\MotorcycleRental\MotocycleRental.Domain\bin\Debug\net8.0\MotorcycleRental.Infra.CrossCutting.dll
+C:\Users\User\source\repos\MotorcycleRental\MotocycleRental.Domain\bin\Debug\net8.0\MotorcycleRental.Infra.CrossCutting.pdb
+C:\Users\User\source\repos\MotorcycleRental\MotocycleRental.Domain\obj\Debug\net8.0\MotorcycleRental.Domain.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MotorcycleRental\MotocycleRental.Domain\obj\Debug\net8.0\MotorcycleRental.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MotorcycleRental\MotocycleRental.Domain\obj\Debug\net8.0\MotorcycleRental.Domain.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MotorcycleRental\MotocycleRental.Domain\obj\Debug\net8.0\MotorcycleRental.Domain.AssemblyInfo.cs
+C:\Users\User\source\repos\MotorcycleRental\MotocycleRental.Domain\obj\Debug\net8.0\MotorcycleRental.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MotorcycleRental\MotocycleRental.Domain\obj\Debug\net8.0\Motorcyc.9AFD7F8E.Up2Date
+C:\Users\User\source\repos\MotorcycleRental\MotocycleRental.Domain\obj\Debug\net8.0\MotorcycleRental.Domain.dll
+C:\Users\User\source\repos\MotorcycleRental\MotocycleRental.Domain\obj\Debug\net8.0\refint\MotorcycleRental.Domain.dll
+C:\Users\User\source\repos\MotorcycleRental\MotocycleRental.Domain\obj\Debug\net8.0\MotorcycleRental.Domain.pdb
+C:\Users\User\source\repos\MotorcycleRental\MotocycleRental.Domain\obj\Debug\net8.0\ref\MotorcycleRental.Domain.dll
