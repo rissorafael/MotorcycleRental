@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MotorcycleRental.Worker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+530029965eeb31a6541ae2027e176cb287fa2270")]
 [assembly: System.Reflection.AssemblyProductAttribute("MotorcycleRental.Worker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MotorcycleRental.Worker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
