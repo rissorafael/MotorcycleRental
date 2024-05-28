@@ -1828,11 +1828,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\rissorafael\\MotorcycleRental\\MotorcycleRental.Infra.CrossCutting\\MotorcycleRental.Infra.CrossCutting.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\MotorcycleRental_\\MotorcycleRental.Infra.CrossCutting\\MotorcycleRental.Infra.CrossCutting.csproj",
       "projectName": "MotorcycleRental.Infra.CrossCutting",
-      "projectPath": "C:\\Users\\User\\source\\repos\\rissorafael\\MotorcycleRental\\MotorcycleRental.Infra.CrossCutting\\MotorcycleRental.Infra.CrossCutting.csproj",
+      "projectPath": "C:\\Users\\User\\Source\\Repos\\MotorcycleRental_\\MotorcycleRental.Infra.CrossCutting\\MotorcycleRental.Infra.CrossCutting.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\rissorafael\\MotorcycleRental\\MotorcycleRental.Infra.CrossCutting\\obj\\",
+      "outputPath": "C:\\Users\\User\\Source\\Repos\\MotorcycleRental_\\MotorcycleRental.Infra.CrossCutting\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

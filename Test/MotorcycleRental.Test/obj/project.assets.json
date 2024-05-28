@@ -8231,11 +8231,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\rissorafael\\MotorcycleRental\\Test\\MotorcycleRental.Test\\MotorcycleRental.Test.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\MotorcycleRental_\\Test\\MotorcycleRental.Test\\MotorcycleRental.Test.csproj",
       "projectName": "MotorcycleRental.Test",
-      "projectPath": "C:\\Users\\User\\source\\repos\\rissorafael\\MotorcycleRental\\Test\\MotorcycleRental.Test\\MotorcycleRental.Test.csproj",
+      "projectPath": "C:\\Users\\User\\Source\\Repos\\MotorcycleRental_\\Test\\MotorcycleRental.Test\\MotorcycleRental.Test.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\rissorafael\\MotorcycleRental\\Test\\MotorcycleRental.Test\\obj\\",
+      "outputPath": "C:\\Users\\User\\Source\\Repos\\MotorcycleRental_\\Test\\MotorcycleRental.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8252,14 +8252,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\User\\source\\repos\\rissorafael\\MotorcycleRental\\MotocycleRental.Domain\\MotorcycleRental.Domain.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\rissorafael\\MotorcycleRental\\MotocycleRental.Domain\\MotorcycleRental.Domain.csproj"
+            "C:\\Users\\User\\Source\\Repos\\MotorcycleRental_\\MotocycleRental.Domain\\MotorcycleRental.Domain.csproj": {
+              "projectPath": "C:\\Users\\User\\Source\\Repos\\MotorcycleRental_\\MotocycleRental.Domain\\MotorcycleRental.Domain.csproj"
             },
-            "C:\\Users\\User\\source\\repos\\rissorafael\\MotorcycleRental\\MotorcycleRental.Infra.Data\\MotorcycleRental.Infra.Data.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\rissorafael\\MotorcycleRental\\MotorcycleRental.Infra.Data\\MotorcycleRental.Infra.Data.csproj"
+            "C:\\Users\\User\\Source\\Repos\\MotorcycleRental_\\MotorcycleRental.Infra.Data\\MotorcycleRental.Infra.Data.csproj": {
+              "projectPath": "C:\\Users\\User\\Source\\Repos\\MotorcycleRental_\\MotorcycleRental.Infra.Data\\MotorcycleRental.Infra.Data.csproj"
             },
-            "C:\\Users\\User\\source\\repos\\rissorafael\\MotorcycleRental\\MotorcycleRental.Service\\MotorcycleRental.Service.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\rissorafael\\MotorcycleRental\\MotorcycleRental.Service\\MotorcycleRental.Service.csproj"
+            "C:\\Users\\User\\Source\\Repos\\MotorcycleRental_\\MotorcycleRental.Service\\MotorcycleRental.Service.csproj": {
+              "projectPath": "C:\\Users\\User\\Source\\Repos\\MotorcycleRental_\\MotorcycleRental.Service\\MotorcycleRental.Service.csproj"
             }
           }
         }

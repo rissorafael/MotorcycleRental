@@ -10,3 +10,16 @@ C:\Users\User\source\repos\MotorcycleRental\MotorcycleRental.Infra.CrossCutting\
 C:\Users\User\source\repos\MotorcycleRental\MotorcycleRental.Infra.CrossCutting\obj\Debug\net8.0\refint\MotorcycleRental.Infra.CrossCutting.dll
 C:\Users\User\source\repos\MotorcycleRental\MotorcycleRental.Infra.CrossCutting\obj\Debug\net8.0\MotorcycleRental.Infra.CrossCutting.pdb
 C:\Users\User\source\repos\MotorcycleRental\MotorcycleRental.Infra.CrossCutting\obj\Debug\net8.0\ref\MotorcycleRental.Infra.CrossCutting.dll
+C:\Users\User\Source\Repos\MotorcycleRental_\MotorcycleRental.Infra.CrossCutting\bin\Debug\net8.0\MotorcycleRental.Infra.CrossCutting.deps.json
+C:\Users\User\Source\Repos\MotorcycleRental_\MotorcycleRental.Infra.CrossCutting\bin\Debug\net8.0\MotorcycleRental.Infra.CrossCutting.dll
+C:\Users\User\Source\Repos\MotorcycleRental_\MotorcycleRental.Infra.CrossCutting\bin\Debug\net8.0\MotorcycleRental.Infra.CrossCutting.pdb
+C:\Users\User\Source\Repos\MotorcycleRental_\MotorcycleRental.Infra.CrossCutting\obj\Debug\net8.0\MotorcycleRental.Infra.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\MotorcycleRental_\MotorcycleRental.Infra.CrossCutting\obj\Debug\net8.0\MotorcycleRental.Infra.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Source\Repos\MotorcycleRental_\MotorcycleRental.Infra.CrossCutting\obj\Debug\net8.0\MotorcycleRental.Infra.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\MotorcycleRental_\MotorcycleRental.Infra.CrossCutting\obj\Debug\net8.0\MotorcycleRental.Infra.CrossCutting.AssemblyInfo.cs
+C:\Users\User\Source\Repos\MotorcycleRental_\MotorcycleRental.Infra.CrossCutting\obj\Debug\net8.0\MotorcycleRental.Infra.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\MotorcycleRental_\MotorcycleRental.Infra.CrossCutting\obj\Debug\net8.0\MotorcycleRental.Infra.CrossCutting.sourcelink.json
+C:\Users\User\Source\Repos\MotorcycleRental_\MotorcycleRental.Infra.CrossCutting\obj\Debug\net8.0\MotorcycleRental.Infra.CrossCutting.dll
+C:\Users\User\Source\Repos\MotorcycleRental_\MotorcycleRental.Infra.CrossCutting\obj\Debug\net8.0\refint\MotorcycleRental.Infra.CrossCutting.dll
+C:\Users\User\Source\Repos\MotorcycleRental_\MotorcycleRental.Infra.CrossCutting\obj\Debug\net8.0\MotorcycleRental.Infra.CrossCutting.pdb
+C:\Users\User\Source\Repos\MotorcycleRental_\MotorcycleRental.Infra.CrossCutting\obj\Debug\net8.0\ref\MotorcycleRental.Infra.CrossCutting.dll
