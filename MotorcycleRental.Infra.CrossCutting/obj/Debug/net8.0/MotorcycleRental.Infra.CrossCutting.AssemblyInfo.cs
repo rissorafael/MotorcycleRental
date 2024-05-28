@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MotorcycleRental.Infra.CrossCutting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c94f841268624cc1778d1c33ee6b100d625fd8d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f735698baa7d5cf91b43e76e36aebd8b8eee486")]
 [assembly: System.Reflection.AssemblyProductAttribute("MotorcycleRental.Infra.CrossCutting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MotorcycleRental.Infra.CrossCutting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\MotorcycleRental_\\MotorcycleRental.Infra.CrossCutting\\MotorcycleRental.Infra.CrossCutting.csproj": {}
+    "C:\\Users\\User\\Source\\Repos\\MotorcycleRental_\\MotorcycleRental.Infra.CrossCutting\\MotorcycleRental.Infra.CrossCutting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\MotorcycleRental_\\MotorcycleRental.Infra.CrossCutting\\MotorcycleRental.Infra.CrossCutting.csproj": {
+    "C:\\Users\\User\\Source\\Repos\\MotorcycleRental_\\MotorcycleRental.Infra.CrossCutting\\MotorcycleRental.Infra.CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\MotorcycleRental_\\MotorcycleRental.Infra.CrossCutting\\MotorcycleRental.Infra.CrossCutting.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\MotorcycleRental_\\MotorcycleRental.Infra.CrossCutting\\MotorcycleRental.Infra.CrossCutting.csproj",
         "projectName": "MotorcycleRental.Infra.CrossCutting",
-        "projectPath": "C:\\Users\\User\\source\\repos\\MotorcycleRental_\\MotorcycleRental.Infra.CrossCutting\\MotorcycleRental.Infra.CrossCutting.csproj",
+        "projectPath": "C:\\Users\\User\\Source\\Repos\\MotorcycleRental_\\MotorcycleRental.Infra.CrossCutting\\MotorcycleRental.Infra.CrossCutting.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\User\\Source\\Repos\\MotorcycleRental_\\MotorcycleRental.Infra.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
