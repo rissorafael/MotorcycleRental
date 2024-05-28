@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MotorcycleRental.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f735698baa7d5cf91b43e76e36aebd8b8eee486")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+299d7f6ba434957da3bcc889faac6fc9c0e6a904")]
 [assembly: System.Reflection.AssemblyProductAttribute("MotorcycleRental.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MotorcycleRental.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

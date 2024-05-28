@@ -408,5 +408,5 @@ bin/
 obj/
 
 # Specifically ignore Debug folders and net8.0 cache
-*/obj/debug/net8.0/
-*/obj/debug/net8.0/cache/
+*/obj/Debug/net8.0/
+*/obj/Debug/net8.0/cache/
